@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: scout
+Version: 0.1.0
+Summary: Beginner-friendly recon CLI tool
+Author: TheRowDler
+Requires-Dist: requests
+Requires-Dist: dnspython
+Requires-Dist: colorama
+Requires-Dist: tqdm

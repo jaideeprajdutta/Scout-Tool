@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "scout"
+version = "0.1.0"
+description = "Beginner-friendly recon CLI tool"
+authors = [{name="TheRowDler"}]
+dependencies = [
+    "requests",
+    "dnspython",
+    "colorama",
+    "tqdm"
+]
+
+[project.scripts]
+scout = "scout.cli:main"

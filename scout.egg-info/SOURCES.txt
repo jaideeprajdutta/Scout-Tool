@@ -1,0 +1,10 @@
+pyproject.toml
+scout/__init__.py
+scout/cli.py
+scout/portfolio.py
+scout.egg-info/PKG-INFO
+scout.egg-info/SOURCES.txt
+scout.egg-info/dependency_links.txt
+scout.egg-info/entry_points.txt
+scout.egg-info/requires.txt
+scout.egg-info/top_level.txt
